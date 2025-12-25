@@ -5,7 +5,7 @@ import logo from './logo.svg';
 function App() {
   return (
     <div className="App">
-      <Clock locale="bn-BD" />
+      <Clock/>
     </div>
   );
 }
